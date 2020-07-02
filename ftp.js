@@ -8,7 +8,7 @@ const options = {
   host: '192.168.14.40',
   port: 22,
   username: 'root',
-  password: 'baicells'
+  password: '***'
 }
 
 function readFileList(dir, filesList = []) {
